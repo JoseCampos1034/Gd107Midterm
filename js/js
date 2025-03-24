@@ -1,5 +1,1 @@
-let trackingarea = document.getElementById('trackingarea');
-function trackMouse(event) {
-     trackingarea.textContent = `Mouse X: ${event.clientX}, Mouse Y: ${event.clientY}`;
-}
-document.addEventListener('mousemove', trackMouse);
+
