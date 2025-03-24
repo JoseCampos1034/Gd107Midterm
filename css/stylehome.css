@@ -193,13 +193,23 @@ p{
   font-size: 14px;
 }
 /*-----Footer-----*/
-/* #5: Mouse Move Event - Tracking Mouse Movement */
 #trackingArea {
     width: 200px;
     height: 100px;
     background-color: black;
     text-align: center;
-    line-height: 190px;
+    line-height: 100px;
+    font-size: 16px; 
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+  /* Visual container for tracking mouse movement */
+#trackingArea {
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    line-height: 100px;
     font-size: 16px; 
     color: #fff;
     text-align: center;
