@@ -193,7 +193,8 @@ p{
   font-size: 14px;
 }
 /*-----Footer-----*/
-.trackingarea {
+/* #5: Mouse Move Event - Tracking Mouse Movement */
+#trackingArea {
     width: 200px;
     height: 100px;
     background-color: black;
